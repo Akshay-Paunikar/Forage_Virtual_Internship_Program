@@ -1,0 +1,15 @@
+1) What is the Total Actual Revenue generated and our Target Revenue in Current Year? Compare it with the Previous Year.
+
+2) What is our Gross Profit Margin and Operating Expense Ratio?
+
+3) What is the average revenue generated per customers and its comparison with last year?
+
+4) What is the customer acquisition cost (CAC) and what was the target for (CAC) and comparison of CAC vs Customer Lifetime Value(CLV)?
+
+5) What are the total number of existing customers and total number of new customers added this year and its comparison with previous year?
+
+6) What are the region-wise total sales generated, our target sales and its comparison with previous year?
+
+7) What is the customer churn rate and the revenue lost due to churn?
+
+8) Customer satisfaction rating this year, areas that need to be improved and what major steps are taken toward it considering marketing and sales?
