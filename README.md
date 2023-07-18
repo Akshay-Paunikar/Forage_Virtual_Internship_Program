@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Forage_Virtual_Internship_Program
 Data Science Virtual Internships
 
