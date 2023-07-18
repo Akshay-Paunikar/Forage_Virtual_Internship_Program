@@ -18,6 +18,3 @@ Our business model, our product, and our team are geared towards creating the mo
 On top of this, everyone in our team joins Forage with a genuine connection and passion for our mission and our learners. We've had people who have started nonprofits to help students join us, product managers who have mentored the next generation join us, and even ex-recruiters from top companies too. The reason they joined was to make the world better for those learners who want to make it in the world.
 
 We put the student first, because we want to and we believe that by doing so we can be the change in the world we want to see.
-=======
-### Various Data Science Related Internships on FORAGE ###
->>>>>>> 83fd7d5 (Updated Github)
