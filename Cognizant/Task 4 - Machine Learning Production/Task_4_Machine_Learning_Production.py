@@ -3,11 +3,14 @@ import os
 import numpy as np
 import pandas as pd
 from datetime import datetime
+import datetime as dt
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score, adjusted_rand_score
-from modules import load_data, convert_to_datetime, convert_timestamp_to_hourly, agg_data
+# below modules are imported from modules.py which is a separate py file
+from modules import load_data, convert_to_datetime, convert_timestamp_to_hourly, agg_data, split_timestamp, train_test_data
+from modules import evaluate_model, model_training
 
 # load the dataset
 
@@ -47,8 +50,27 @@ numerical_data = numerical_data.drop_duplicates()
 
 merged_data = merged_data.merge(right=category_data, how='left', on=['product_id'])
 merged_data = merged_data.merge(right=numerical_data, how='left', on=['product_id'])
-print(merged_data.head())
 
+# Feature Engineering
+# first we will split timestamp into date day and hour and drop the timestamp column
 
+merged_data = split_timestamp(data=merged_data, column='timestamp')
 
+# next we will create dummy features for category features
+merged_data = pd.get_dummies(data=merged_data, columns=['category', 'customer_type', 'payment_type']) 
 
+# now we are going to drop the product_id column as it is not necessary for model training
+merged_data = merged_data.drop(['product_id'], axis=1)
+
+# remove any duplicates from dataframe
+merged_data = merged_data.drop_duplicates()
+
+# train test split
+X_train, X_test, y_train, y_test = train_test_data(data=merged_data, column='estimated_stock_pct')
+
+# model training
+
+mean_error, absolute_error = model_training(X_train=X_train, X_test=X_test, y_train=y_train, y_test=y_test)
+
+print("Mean_Squared_Error:", mean_error)
+print("Mean_Absolute_Error:", absolute_error)

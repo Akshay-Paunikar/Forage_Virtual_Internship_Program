@@ -34,3 +34,49 @@ def convert_timestamp_to_hourly(data: pd.DataFrame = None, column: str = None):
 def agg_data(data, group_columns, agg_column, aggregation):
     dataset = data.groupby(group_columns).agg({agg_column:aggregation}).reset_index()
     return dataset
+  
+def split_timestamp(data, column):
+  data['date'] = data[column].dt.day
+  data['day'] = data[column].dt.day_of_week
+  data['hour'] = data[column].dt.hour
+  
+  data = data.drop([column], axis=1)
+  return data
+
+def train_test_data(data, column):
+  X = data.drop([column], axis=1)
+  y = data[column]
+  
+  # train test split
+  X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=111)
+  return X_train, X_test, y_train, y_test
+
+def evaluate_model(true, predicted):
+    MeanSquaredError = mean_squared_error(true, predicted)
+    MeanAbsoluteError = mean_absolute_error(true, predicted)
+    return MeanSquaredError, MeanAbsoluteError
+  
+  
+def model_training(X_train, X_test, y_train, y_test):
+  # first scale the data
+  SS = StandardScaler()
+  
+  X_train_scaled = SS.fit_transform(X_train)
+  X_test_scaled = SS.transform(X_test)
+  
+  # Random Forest Regressor
+  rf = RandomForestRegressor()
+  
+  # fit model on training data
+  rf.fit(X_train_scaled, y_train)
+  
+  # predict on test data
+  y_pred = rf.predict(X_test_scaled)
+  
+  # check model performance
+  mean_error, absolute_error = evaluate_model(true=y_test, predicted=y_pred)
+  
+  return mean_error, absolute_error
+  
+  
+  
