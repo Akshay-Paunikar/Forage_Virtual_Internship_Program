@@ -22,5 +22,6 @@ To complete this task, answer the multiple-choice quiz. Please note there are 6 
 question loads. This should take 10-20 minutes.
 
 <h3>Here are some resources to help you</h3>
+
  - How to improve machine learning models : https://www.analyticsvidhya.com/blog/2015/12/improve-machine-learning-results/
  - How to improve machine learning models 2:  https://www.dummies.com/article/technology/information-technology/ai/machine-learning/10-ways-improve-machine-learning-models-226836/
