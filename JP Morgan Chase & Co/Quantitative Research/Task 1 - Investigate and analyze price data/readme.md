@@ -1,5 +1,5 @@
 ### Task 1 - Investigate and analyze price data
-Investigate and analyze price data
+Learn about commodities markets and demonstrate data analysis skills
 
 ### Here is the background information on your task
 You are a quantitative researcher working with a commodity trading desk. Alex, a VP on the desk, wants to start trading natural gas storage contracts. However, the 
