@@ -31,6 +31,7 @@ First, research the different techniques available for anonymising a data set. T
 Once you’ve completed your anonymisation, submit your CSV file below.
 
 <h3>Resources to help you with the task:</h3>
+
  - An In-Depth Guide to Data Masking: https://www.testim.io/blog/data-masking/
  - Overview of formulas in Excel: https://support.microsoft.com/en-us/office/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173
  - How to Mask Data Input in Excel & Google Sheets: https://www.automateexcel.com/how-to/mask-data-input/
