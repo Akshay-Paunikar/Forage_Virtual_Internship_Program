@@ -34,5 +34,6 @@ Once you’re happy with your database structure, complete the text submission b
  - The relationships between your tables.
 
 <h3>Resources to help you with the task:</h3>
+
  - Database design basics - https://support.microsoft.com/en-us/office/database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5
  - Introduction to Database Design - https://www.datanamic.com/support/lt-dez005-introduction-db-modeling.html
