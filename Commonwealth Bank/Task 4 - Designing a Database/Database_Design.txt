@@ -1,0 +1,51 @@
+The list of tables needed:
+
+Customer_Data, Twitter_Data
+
+Items to include in each data set:
+
+1) Customer_Data: 
+
+Customer_ID: Unique ID for Customers
+
+Customer_Name: Name of the Customer
+
+Customer_Age: Age of the Customer
+
+Customer_City: City in which the Customer lives
+
+Customer_State: State in which the Customer lives
+
+Customer_Country: Country from which the Customer belongs
+
+Customer_ZipCode: ZipCode of the Customer
+
+2) Twitter_Data:
+
+Account_ID: Unique Account ID of the Customer
+
+Tweet_ID: Unique ID of the tweet posted by Customer
+
+Tweet_Description: Tweet that has posted by Customer
+
+Tweet_Time: Time at which tweet posted
+
+Tweet_Date: Date on which tweet posted
+
+Tweet_Mentions: Anything that got mention in the tweet like place, person, organization
+
+Tweet_Retweets: Number of times re-twitted
+
+Tweet_Likes: Number of likes
+
+Tweet_Comments: Comments with the user name
+
+Primary Keys:
+
+Customer_Data: Customer_ID
+
+Twitter_Data: Account_ID
+
+Relationship between the tables:
+
+Customer_ID and Account_ID are same so that they can be used to join the two tables.
