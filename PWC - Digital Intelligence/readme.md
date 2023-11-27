@@ -2,6 +2,7 @@
 Work with our digital intelligence teams to deliver PwC expertise to our clients.
 
 <h3>Why complete our Virtual Case Experience</h3>
+
 A risk-free way to experience work on the job with us at PwC Switzerland. Practice your skills with example tasks and build your confidence to ace your applications.
 
 Are you studying informatics, mathematics, engineering, theoretical physics or economics? Are you an innovative thinker and up to new challenges? Together we’ll find constructive answers to our clients’ questions about their digital transformation. One thing we know for sure: change is positive. Regardless of where it happens, progress always revolves around people – and trust.
