@@ -3,7 +3,7 @@ Understanding how AI leads to better decisions.
 
 <h3>Task Overview</h3>
 
-<b></b>What you'll learn</b>
+<b>What you'll learn</b>
  - The significance of Responsible AI in decision-making.
  - How to build a Python classification model.
  - Analyzing feature importance in a classification model.
