@@ -1,6 +1,17 @@
 <h2>Task 2 - Responsible AI</h2>
 Understanding how AI leads to better decisions.
 
+<h3>Task Overview</h3>
+<b></b>What you'll learn</b>
+ - The significance of Responsible AI in decision-making.
+ - How to build a Python classification model.
+ - Analyzing feature importance in a classification model.
+
+<b>What you'll do</b>
+ - Build a Python classification model.
+ - Analyze which features affect the model's decisions the most, both overall and for specific cases.
+ - Create visual representations and provide comments on your findings.
+
 <h3>Here is your task</h3>
 Ready? Download Jupyer Notebook and start creating. For your additional analysis and comments, you could use a PowerPoint slide deck and as well or do everything in the tool.
  - Create a classification model in Python. Feel free to use libraries such as SkLearn, Keras/Tensorflow or Pytorch.
