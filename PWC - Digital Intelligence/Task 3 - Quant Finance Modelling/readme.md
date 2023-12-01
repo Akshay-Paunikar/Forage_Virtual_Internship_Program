@@ -45,3 +45,6 @@ As you are supporting the audit colleagues with the audit for the year 2020, the
  6. The client’s estimate of the portfolio value was CHF 84’993’122.67. How close is this to your own estimate? Compute both the absolute and relative difference. Jakob tells you that the audit team considers any difference smaller than CHF 500’000 to be acceptable given the size of the portfolio. Based on the result of your valuation, conclude whether the difference to the client’s estimate falls below his threshold. 
 
 Jakob notes: The portfolio value should be rounded to two decimal places. The slides can be simple as we'll use them internally first. Focus on correct solutions to set up the team with the right insights. 
+
+<h3>Here are some resources to help you</h3>
+Use the linked documents for helpful guidance on completing your task.
