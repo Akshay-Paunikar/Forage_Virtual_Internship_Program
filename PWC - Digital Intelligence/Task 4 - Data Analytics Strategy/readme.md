@@ -24,12 +24,14 @@ We’re off to Bern now, to work with a Digital Intelligence team helping a clie
 <h3>Here is your task:</h3>
 <b>You and the team are already on it. Your job is to prepare a PowerPoint slide deck with your proposal for the client. Jakob wrote you an email to get you started – check it out!</b>
 
+![image](https://github.com/Akshay-Paunikar/Forage_Virtual_Internship_Program/assets/86560684/1b4db881-ce13-42f6-8f94-f77e7a67d33f)
 
 This experience is self-paced. Anyway, Jakob is expected to send the presentation to management in 1.5 hours and needs your input as soon as possible. We recommend you spend no more than that completing this task.
 
 <h3>Here are some resources to help you:</h3>
 Use the resources below for helpful guidance on completing your task.
 
+![image](https://github.com/Akshay-Paunikar/Forage_Virtual_Internship_Program/assets/86560684/c0b2ffd2-dd47-4ea1-96da-fb8f0dfaedee)
 
 Do you want to learn more? Level up by listening to a portion (or all!) of our podcasts linked below and read our blog posts to learn more about Data Analytics Strategy to help you complete the task.
 
