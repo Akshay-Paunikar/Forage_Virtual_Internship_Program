@@ -2,7 +2,7 @@
 Comparing adverse effects of pain medicaments
 
 <h3>Task Overview</h3>
-<b></b>What you'll learn
+<b>What you'll learn</b>
  - How to analyze adverse drug effects using provided data.
 
 <b>What you'll do</b>
