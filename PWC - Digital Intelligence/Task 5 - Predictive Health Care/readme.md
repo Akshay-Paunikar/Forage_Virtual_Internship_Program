@@ -42,3 +42,10 @@ Define what further investigations might be helpful in determining whether a cer
 
 <b>Voice Message:</b>
 
+<i>“Hey there,
+
+Thanks for being already on it. Just a hint: The FAERS dataset only contains data on a quarterly basis. You have to download all four quarters from 2019 and bind them together. To find the adverse effects (i.e. reactions) for the drug, you need to merge datasets. The documentation related to the data structure can as well be found on the FAERS website. Looking forward to your presentation.
+
+See you later!”</i>
+
+This experience is self-paced. But, Jakob is expected to send the presentation to the team in 1.5 hours and needs your slides and analyses. We recommend you spend no more than that completing this task.
