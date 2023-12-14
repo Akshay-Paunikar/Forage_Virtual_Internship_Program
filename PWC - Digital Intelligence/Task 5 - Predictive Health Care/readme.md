@@ -49,3 +49,8 @@ Thanks for being already on it. Just a hint: The FAERS dataset only contains dat
 See you later!”</i>
 
 This experience is self-paced. But, Jakob is expected to send the presentation to the team in 1.5 hours and needs your slides and analyses. We recommend you spend no more than that completing this task.
+
+<h3>Here are some resources to help you</h3>
+<b>Resources for the task</b>
+
+Use the links below for helpful guidance on completing your task.
