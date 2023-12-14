@@ -55,3 +55,25 @@ This experience is self-paced. But, Jakob is expected to send the presentation t
 <b>Resources for the task</b>
 
 Use the links below for helpful guidance on completing your task.
+
+ - RStudio - https://www.rstudio.com/products/rstudio/
+ - FAERS database - https://www.fda.gov/drugs/questions-and-answers-fdas-adverse-event-reporting-system-faers/fda-adverse-event-reporting-system-faers-latest-quarterly-data-files
+
+<b>By the way: Here’s some important info about PwC and health:</b> 
+
+ - AI and Robotics are transforming healthcare - https://www.pwc.com/gx/en/industries/healthcare/publications/ai-robotics-new-health/transforming-healthcare.html
+ - Personalised health solutions - https://www.pwc.ch/en/services/digital/data-analytics/personalised-healthcare-solutions.html
+
+You want to learn more? Level up by listening to a portion (or all!) of our podcasts linked below and read our blog posts. The AI study in the resource section gives you further insights you about AI to help you completing the task.
+
+<b>Podcasts</b>
+
+ - Emerging health ecosystems - https://www.pwc.com/us/en/industries/health-industries/health-research-institute/next-in-health-podcast/health-ecosystems.html
+ - How will digital transformation and resiliency shape the U.S. health industry? - https://www.pwc.com/us/en/industries/health-industries/health-research-institute/next-in-health-podcast/digital-capabilities-reshape-us-health-industry.html 
+ - Strategy& Insider podcast "Future of Health" - https://www.strategyand.pwc.com/gx/en/about/media/insider-podcast.html
+ 
+ <b>Blog posts</b>
+
+ - Predictive Healthcare with real world evidence for neurological disorders - https://www.pwc.com/gx/en/services/new-ventures/global-innovation-challenge/predictive-healthcare.html
+ - Artificial Intelligence is reforming healthcare - https://www.pwc.ch/en/insights/phrend.html
+ - Future of health report - https://www.strategyand.pwc.com/de/en/insights/2019/future-of-health.html
