@@ -75,3 +75,9 @@ Created the last slide? Well done this concludes your “Tour de Suisse”. Jako
 “Hey intern, you’re done. Time to unpack and do your laundry. And post pics from all the Swiss cities you worked in!
 
 We hope you’ve enjoyed the Virtual Case Experience with our PwC Digital Intelligence teams.”
+
+<h3>Here are some resources to help you</h3>
+
+Use the linked documents for helpful guidance on completing your task.
+
+
