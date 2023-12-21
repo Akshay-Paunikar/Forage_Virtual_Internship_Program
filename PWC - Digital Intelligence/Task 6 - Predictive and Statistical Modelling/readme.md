@@ -80,4 +80,21 @@ We hope you’ve enjoyed the Virtual Case Experience with our PwC Digital Intell
 
 Use the linked documents for helpful guidance on completing your task.
 
+Do you want to learn more? Level up by listening to a portion (or all!) of our podcasts linked below and read our blogs to level up on predictive and statistical modelling to help you complete the task. 
 
+<b>Podcasts:</b>
+
+ - Tech Talk series: Episode 6 - And then there was data - https://www.pwc.lu/en/podcasts-tech-talks/podcasts-tech-talks-1st-season.html
+ - Tech Talk series: Episode 13 - Data - to govern, or not to govern: that is (never) the question - https://www.pwc.lu/en/podcasts-tech-talks/podcasts-tech-talks-1st-season.html
+ 
+<b>Blog posts:</b>
+
+ - Data: Are we speaking the same language? - https://pwc.blogs.com/technology-insights/2016/10/data-are-we-speaking-the-same-language-.html
+ - Big Data = Big opportunity? How does it work? - https://pwc.blogs.com/technology-insights/2016/03/big-data-big-opportunity-how-does-it-work.html
+ - Data analytics: The new win-win-win by Peter Kasahara - https://www.pwc.ch/en/insights/digital/data-analytics-new-win-win-win.html
+
+<b>On top:</b> You must be curious about predictive and statistical modelling, so check out our websites.
+
+ - Predictive analytics - https://www.pwc.ch/en/services/digital/data-analytics/apply-advanced-analytics.html
+ - Actuarial Services & Insurance analytics - https://www.pwc.ch/en/services/assurance/actuarial-services-insurance-analytics.html
+ - Experience analytics - https://www.pwc.ch/en/services/assurance/actuarial-services-insurance-analytics/experience-analysis.html
