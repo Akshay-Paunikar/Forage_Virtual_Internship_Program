@@ -16,6 +16,7 @@ Predicting damage risks at waste management sites
  - Determine VaR and consider modeling enhancements.
 
 <h3>Here is the background information on your task:</h3>
+
 You and Jakob hit the road again. Your last stop is Lucerne, where our client, a mutual insurance association, is domiciled. They offer insurance coverage for a wide range of insurance risks relating to waste incinerator stations and other companies in the waste management industry. Two types of sites are covered:
 
  - Waste incinerator stations (WIS)
