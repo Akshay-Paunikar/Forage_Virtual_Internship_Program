@@ -37,3 +37,7 @@ The insurer needs to set up equalisation reserves for annual aggregate claim amo
 As a part of the actuarial services team, your job is to derive the aggregate claims distribution over a 1-year time horizon. Based on this distribution, derive the expected annual aggregate claim costs as well as the 80% VaR (Value at Risk). The value of 80% is not untypical for a Swiss insurance company setting up equalisation reserves.
 
 You will need to know several assumptions around claims modelling and distribution, as well as parameters of the claim distribution. Learn about these in the resources provided.
+
+<h3>Here is your task:</h3>
+
+<b>As part of the Actuarial Services team, you and Jakob prepare a PowerPoint slide deck or a Word document to tackle the task. If needed, provide the R script in your slide deck to explain your assumptions.</b>
