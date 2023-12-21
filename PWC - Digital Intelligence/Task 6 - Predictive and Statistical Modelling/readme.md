@@ -64,6 +64,15 @@ The amount to be booked for the equalisation reserves shall be determined as of 
 
 <b>j)</b> Could you apply Machine Learning methods to this example? Explain.
 
+<b>Hints:</b>
+
+ - You can assume that all the claims incurred at the end of each reporting period. Then, do not forget inflating the claims data by 3% to year-end 2021.
+ - The first moment of the two-parameter Pareto distribution with scale parameter t and shape parameter a is given by t*a/(a-1).
+ - Note that E[S] = E[N]*E[X], where S, X and N denote the total claim amount, the single claim amount and the (random) number of claims respectively.
+ - Note that Var[S] = E[N]*Var[X] + Var[N]*E[X]^2, where S, X and N denote the total claim amount, the single claim amount and the (random) number of claims respectively.
+ - The second moment of the Pareto distribution with a scale parameter t and shape parameter a is given by t^2*a/(a-2).
+ - The value of the 80% - quantile of the standard normal distribution is 0.84.
+
 Bonus question: Without performing any simulations, is it possible to estimate the confidence interval at the 80% level for the expected aggregate loss (sound statistical approximations can be applied)? 
 
 Jakob notes: for e)–g) all calculations should be rounded to one decimal place. The slides can be simple as we’ll use them internally first. Focus on correct solutions to set up the team with the right insights. 
