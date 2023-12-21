@@ -41,3 +41,37 @@ You will need to know several assumptions around claims modelling and distributi
 <h3>Here is your task:</h3>
 
 <b>As part of the Actuarial Services team, you and Jakob prepare a PowerPoint slide deck or a Word document to tackle the task. If needed, provide the R script in your slide deck to explain your assumptions.</b>
+
+The amount to be booked for the equalisation reserves shall be determined as of 31 December 2020 for claims that potentially occur in the year 2021.
+
+<b>a)</b> Do you have all the information available (e.g. regarding claims data, assumptions for distributions or the collective risk model) that is required to fit the data to the collective risk model of each risk type (i.e. WIS, non-WIS) and, thus, to derive the aggregate loss distributions? If not, which information is potentially missing? If any, apply expert judgment and explain your decisions you made.
+
+<b>b)</b> Are the assumptions made for each of the claims’ frequency and severity distributions reasonable? How could you validate it?
+
+<b>c)</b> What challenges are you most likely facing given the data? How would you characterise the dataset of each type of site?
+
+<b>d)</b> How could you validate the provided data set regarding its accuracy and completeness?
+
+<b>e)</b> Which parameters do you obtain when you are fitting the claims frequency and severity distributions for each site to the provided data set? Check out Jakob’s hints to get you started.
+
+<b>f)</b> What is the expected value of the claims for the current year 2021 at the individual (i.e. for each site) as well as at the aggregate level? Do you need a simulation tool or can the expected values be derived analytically? Jakob has your back, check out his hint.
+
+<b>g)</b> Approximate the Value at Risk at level 80% of the (total) aggregate loss distribution for both risk types using the standard normal distribution (or “CLT”) to obtain an estimate of the equalisation reserves to be set up by the insurer. What now? Jakob tells you in some hints.
+
+<b>h)</b> Quantify the impact on the expected aggregate loss for year 2021 if the claims frequency for both sites immediately doubles?
+
+<b>i)</b> How could the modelling approach be further improved?
+
+<b>j)</b> Could you apply Machine Learning methods to this example? Explain.
+
+Bonus question: Without performing any simulations, is it possible to estimate the confidence interval at the 80% level for the expected aggregate loss (sound statistical approximations can be applied)? 
+
+Jakob notes: for e)–g) all calculations should be rounded to one decimal place. The slides can be simple as we’ll use them internally first. Focus on correct solutions to set up the team with the right insights. 
+
+This experience is self-paced. However, Jakob is expected to send the presentation to the client in 1.5 hours and needs your slides and analyses. We recommend you spend no more than that completing this task. 
+
+Created the last slide? Well done this concludes your “Tour de Suisse”. Jakob left you a voice message on your way back to Zurich. 
+
+“Hey intern, you’re done. Time to unpack and do your laundry. And post pics from all the Swiss cities you worked in!
+
+We hope you’ve enjoyed the Virtual Case Experience with our PwC Digital Intelligence teams.”
