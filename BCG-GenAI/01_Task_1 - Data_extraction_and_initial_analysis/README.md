@@ -33,7 +33,9 @@ This task will allow you to develop a deep understanding of financial data analy
 <h3>Getting briefed</h3>
 
 <b>Subject:</b> Initiation: Financial Data Analysis for GFC AI Chatbot Project
+
 <b>From:</b> aisha@bcg.com
+
 <b>To:</b> forager@bcg.com
 
 Dear Forager,
