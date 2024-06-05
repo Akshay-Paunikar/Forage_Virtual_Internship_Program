@@ -1,5 +1,5 @@
 <h2>Task 1: Data extraction and initial analysis</h2>
-<h4>Task overview:</h4>
+<h3>Task overview:</h3>
 
 <b>What you'll learn:</b>
 
