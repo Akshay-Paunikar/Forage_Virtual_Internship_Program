@@ -81,7 +81,6 @@ Senior Data Scientist
 
 GenAI Consulting Team, BCG
 
-
 <h3>Techniques for extracting key financial data from 10-Ks</h3>
 
 10-K reports are comprehensive annual reports filed with the SEC by publicly traded companies. They provide a detailed account of a company's financial performance, including audited financial statements, management's discussion and analysis (MD&A), and disclosures about market risk, controls, and legal proceedings.
@@ -159,9 +158,13 @@ Your task is to manually extract key financial data for the last three fiscal ye
 <b>Install Jupyter</b> (if not already installed):
 
  - Install Jupyter using pip if you haven't already:
+
 pip install notebook
+ 
  - Launch Jupyter Notebook:
+
 jupyter notebook
+ 
  - This command should open Jupyter in your web browser.
 
 <b>Create a new notebook:</b>
