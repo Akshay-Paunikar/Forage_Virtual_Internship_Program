@@ -176,11 +176,13 @@ jupyter notebook
 <b>Import pandas:</b>
 
  - At the beginning of your notebook, import the pandas library to work with your data.
+
 import pandas as pd
 
 <b>Load your data:</b>
 
  - Convert your Excel file to a CSV file for easier handling, then load it into a DataFrame.
+
 df = pd.read_csv('path_to_your_csv_file.csv')
 
 <b>Analyzing trends with pandas:</b>
