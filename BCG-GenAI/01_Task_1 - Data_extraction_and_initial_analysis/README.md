@@ -66,8 +66,8 @@ We have just kicked off a pivotal project with Global Finance Corp. (GFC), focus
 <b>Deliverable:</b>
 
  - A comprehensive data analysis report, which should include:
-  - your findings
-  - a summary providing insights into the financial health of the analyzed companies.
+   - your findings
+   - a summary providing insights into the financial health of the analyzed companies.
 
 This initial task will set the foundation for our AI model and is instrumental in moving the project forward. Your attention to detail and analytical skills will be key in this phase.
 
