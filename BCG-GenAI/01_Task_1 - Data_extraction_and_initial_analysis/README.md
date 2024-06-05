@@ -107,4 +107,7 @@ GenAI Consulting Team, BCG
 
 By understanding the structure of 10-K reports and mastering these extraction techniques, you can efficiently gather the necessary financial data for analysis and further application in AI-driven tools.
 
-Here are some resources to help you
+<h4>Here are some resources to help you:</h4>
+
+ - How to Read a 10-K/10-Q - https://www.sec.gov/oiea/investor-alerts-and-bulletins/how-read-10-k10-q
+
