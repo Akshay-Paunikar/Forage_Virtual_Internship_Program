@@ -90,11 +90,11 @@ GenAI Consulting Team, BCG
 
  - <b>Income statement:</b> This section provides information about the company's revenue, costs, and expenses over a specific period of time.
    - <b>Key data points:</b> Total revenue, cost of goods sold (COGS), operating expenses, and net income.
-   - </b>Extraction technique:</b> Look for the income statement summary, typically in the early pages of the reports. Pay attention to year-over-year changes.
+   - <b>Extraction technique:</b> Look for the income statement summary, typically in the early pages of the reports. Pay attention to year-over-year changes.
  - <b>Balance sheet:</b> This section outlines the company’s assets, liabilities, and the shareholders’ equity at a specific point in time.
    - <b>Key data points:</b> Current assets, long-term assets, current liabilities, long-term liabilities, and total shareholders’ equity.
    - <b>Extraction technique:</b> Focus on the balance sheet summary. Compare assets against liabilities to understand the company’s financial health and note any large changes in assets or liabilities.
- - Cash flow statement: This shows how changes to the balance sheet and income impact cash and cash equivalents.
+ - <b>Cash flow statement:</b> This shows how changes to the balance sheet and income impact cash and cash equivalents.
    - <b>Key data points:</b> Cash from operating activities, investing activities, and financing activities.
    - <b>Extraction technique:</b> Analyze the cash flow statement to understand how the company generates and spends its cash. This can provide insights into a company's liquidity.
  
