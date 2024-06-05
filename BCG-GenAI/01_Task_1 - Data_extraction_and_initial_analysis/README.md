@@ -25,6 +25,7 @@ Welcome to the first task of your journey as a junior data scientist with BCG's 
 <b>Determining important factors for AI integration</b>
 
 <b>Data quality assessment:</b> The success of AI heavily depends on the quality of data it is fed. Through this task, you'll learn to identify and extract high-quality, relevant financial data, setting a strong foundation for accurate AI modeling.
+
 <b>Understanding data structure:</b> AI models require data in specific formats. This task will help you comprehend the structuring of financial data, which is a pivotal step in preparing it for AI integration.
 
 This task will allow you to develop a deep understanding of financial data analysis and its significance in AI applications. It's about setting the tone and foundation for the rest of your project. As you begin this task, remember that the insights and skills you gain here are key to your growth as a data scientist and the success of the project with your client, GFC. Let's dive in!
