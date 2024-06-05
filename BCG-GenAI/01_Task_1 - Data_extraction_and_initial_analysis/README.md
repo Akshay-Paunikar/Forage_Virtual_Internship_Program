@@ -76,6 +76,35 @@ Feel free to reach out for any assistance or clarification needed during this pr
 Best regards,
 
 Aisha
+
 Senior Data Scientist 
+
 GenAI Consulting Team, BCG
 
+
+<h3>Techniques for extracting key financial data from 10-Ks</h3>
+
+10-K reports are comprehensive annual reports filed with the SEC by publicly traded companies. They provide a detailed account of a company's financial performance, including audited financial statements, management's discussion and analysis (MD&A), and disclosures about market risk, controls, and legal proceedings.
+
+<b>Key sections to focus on for financial data extraction:</b>
+
+ - <b>Income statement:</b> This section provides information about the company's revenue, costs, and expenses over a specific period of time.
+   - <b>Key data points:</b> Total revenue, cost of goods sold (COGS), operating expenses, and net income.
+   - </b>Extraction technique:</b> Look for the income statement summary, typically in the early pages of the reports. Pay attention to year-over-year changes.
+ - <b>Balance sheet:</b> This section outlines the company’s assets, liabilities, and the shareholders’ equity at a specific point in time.
+   - <b>Key data points:</b> Current assets, long-term assets, current liabilities, long-term liabilities, and total shareholders’ equity.
+   - <b>Extraction technique:</b> Focus on the balance sheet summary. Compare assets against liabilities to understand the company’s financial health and note any large changes in assets or liabilities.
+ - Cash flow statement: This shows how changes to the balance sheet and income impact cash and cash equivalents.
+   - <b>Key data points:</b> Cash from operating activities, investing activities, and financing activities.
+   - <b>Extraction technique:</b> Analyze the cash flow statement to understand how the company generates and spends its cash. This can provide insights into a company's liquidity.
+ 
+<b>Effective techniques for data extraction:</b>
+
+ - <b>Manual extraction:</b> Start by manually reviewing the documents to understand their layout and where key information is typically found.
+ - <b>Highlight and annotate:</b> Use digital tools to highlight and annotate key figures and notes for easy reference.
+ - <b>Excel and spreadsheet tools:</b> For quantitative data, using Excel or similar spreadsheet tools can be effective. You can input key figures into a spreadsheet for analysis and comparison.
+ - <b>Automated extraction tools:</b> For more advanced users, tools such as Python (in particular, libraries such as Beautiful Soup or Pandas) can automate the extraction of data from these documents, especially if they are available in digital formats.
+
+By understanding the structure of 10-K reports and mastering these extraction techniques, you can efficiently gather the necessary financial data for analysis and further application in AI-driven tools.
+
+Here are some resources to help you
