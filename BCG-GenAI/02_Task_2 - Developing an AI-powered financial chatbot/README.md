@@ -103,7 +103,7 @@ Building a fully functional AI chatbot for financial analysis is a complex proce
        return "Sorry, I can only provide information on predefined queries."
 </pre>
 
-<h4>Step 4: Demonstration and documentation</h4>h4>
+<h4>Step 4: Demonstration and documentation</h4>
 
  - <b>Test your chatbot:</b> Spend a few minutes testing the chatbot with the predefined queries to ensure it responds correctly.
  - <b>Prepare a brief documentation:</b> Write a short summary explaining how your chatbot works, the predefined queries it can respond to, and any limitations.
