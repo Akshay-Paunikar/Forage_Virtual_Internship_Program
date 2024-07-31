@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Financial Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <h1>Financial Chatbot</h1>
+        <div id="chat-box">
+            <div id="chat-log"></div>
+        </div>
+        <div class="input-container">
+            <select id="question-select">
+                <option value="">Select a question</option>
+                <option value="total_revenue">What is the total revenue?</option>
+                <option value="net_income">What is the net income?</option>
+                <option value="total_assets">What are the total assets?</option>
+                <option value="total_liabilities">What are the total liabilities?</option>
+                <option value="operating_expenses_rd">What are the operating expenses (R&D)?</option>
+                <option value="operating_expenses_sg">What are the operating expenses (Sales & Marketing)?</option>
+                <option value="cash_flow">What is the total cash flow from operating activities?</option>
+                <option value="revenue_growth">What is the revenue growth?</option>
+                <option value="net_income_growth">What is the net income growth?</option>
+                <option value="assets_growth">What is the assets growth?</option>
+                <option value="liabilities_growth">What is the liabilities growth?</option>
+                <option value="cash_flow_growth">What is the cash flow growth?</option>
+            </select>
+            <select id="company-select">
+                <option value="">Select a company</option>
+                <option value="Apple">Apple</option>
+                <option value="Microsoft">Microsoft</option>
+                <option value="Tesla">Tesla</option>
+            </select>
+            <select id="year-select">
+                <option value="">Select a year</option>
+                <option value="2021">2021</option>
+                <option value="2022">2022</option>
+                <option value="2023">2023</option>
+            </select>
+            <button id="send-btn" onclick="sendMessage()">Submit</button>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

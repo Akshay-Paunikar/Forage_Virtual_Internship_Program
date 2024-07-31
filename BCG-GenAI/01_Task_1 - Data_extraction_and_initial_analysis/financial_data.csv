@@ -1,0 +1,10 @@
+Company,Year,Total Revenue (in millions),Net Income (in millions),Total Assets (in millions),Total Liabilities (in millions),Operating Expenses(R & D),"Operating Expenses(Sales & Marketing, Other Administrative)",Total Cash Flow from Operating Activities (in millions),Revenue Growth (%),Net Income Growth (%),Assets Growth (%),Liabilities Growth (%),Cash Flow Growth (%)
+Apple,2021,365817,94680,351002,287912,21914,21973,43887,,,,,
+Apple,2022,394328,99803,352755,302083,26251,25094,51345,7.79,5.41,0.5,4.92,16.99
+Apple,2023,383285,96995,352583,290437,29915,24932,54847,-2.8,-2.81,-0.05,-3.86,6.82
+Microsoft,2021,168088,61271,333779,191791,20716,25224,45940,,,,,
+Microsoft,2022,198270,72738,364840,198298,24512,27725,52237,17.96,18.72,9.31,3.39,13.71
+Microsoft,2023,211915,72361,411976,205753,27195,30334,57529,6.88,-0.52,12.92,3.76,10.13
+Tesla,2021,53823,5644,62131,30548,2593,4517,7110,,,,,
+Tesla,2022,81462,12587,82338,36440,3075,3946,7021,51.35,123.02,32.52,19.29,-1.25
+Tesla,2023,96773,14974,106618,43009,3969,4800,8769,18.8,18.96,29.49,18.03,24.9
