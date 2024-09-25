@@ -51,21 +51,21 @@ Your task involves two main phases.
 
 <h4>Phase 1: Data gathering and exploratory analysis</h4>
 
- - <b>Objective:</b> Collect relevant data, perform exploratory data analysis (EDA), and prepare the data for modelling.
- - <b>Steps:</b>
+<b>Objective:</b> Collect relevant data, perform exploratory data analysis (EDA), and prepare the data for modelling.
+<b>Steps:</b>
   - Identify and gather data from provided sources relevant to predicting customer churn.
   - Conduct EDA to understand the data, identify key features, and uncover patterns and insights.
   - Clean and preprocess the data to ensure it is ready for model building.
- - <b>Deliverable:</b> Submit a report detailing your exploratory data analysis and key findings, including the cleaned and preprocessed data set.
+ <b>Deliverable:</b> Submit a report detailing your exploratory data analysis and key findings, including the cleaned and preprocessed data set.
 
 <h4>Phase 2: Building a machine learning model</h4>
 
- - <b>Objective:</b> Develop a predictive model to identify customers at risk of churning and propose ways to measure the model’s performance.
- - <b>Steps:</b>
+<b>Objective:</b> Develop a predictive model to identify customers at risk of churning and propose ways to measure the model’s performance.
+<b>Steps:</b>
   - Choose a suitable machine learning algorithm for the classification task.
   - Build and train the model to predict customer churn.
   - Suggest ways to evaluate and measure the model’s performance, ensuring its reliability and accuracy.
- - <b>Deliverable:</b> Submit a report, including the trained machine learning model and your proposed methods for evaluating and measuring the model’s performance.
+ <b>Deliverable:</b> Submit a report, including the trained machine learning model and your proposed methods for evaluating and measuring the model’s performance.
 
 <h4>The importance of this project:</h4>
 Addressing customer churn is critical for maintaining SmartBank's competitive edge and ensuring long-term sustainability. The board of directors is strongly encouraging the team to deliver a solution promptly, as timely delivery will help secure our market position and capitalize on opportunities. The team is feeling the heat, but they are also highly motivated and determined to turn this challenge into an opportunity. Your role is pivotal in this effort, and your contributions will be closely monitored by senior management.
