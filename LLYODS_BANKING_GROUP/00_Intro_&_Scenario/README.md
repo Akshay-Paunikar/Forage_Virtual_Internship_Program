@@ -39,8 +39,11 @@ Our fictional client, SmartBank, a subsidiary of Lloyds, has reported that a sub
 Before you begin, it's essential to understand a few key concepts:
 
 <b>1. Customer churn:</b> The process by which customers stop doing business with a company. Identifying and preventing churn is crucial for maintaining a stable customer base.
+
 <b>2. Predictive analytics:</b> Techniques that use historical data to forecast future possibilities. In this project, you'll use predictive analytics to predict which customers are likely to churn.
+
 <b>3. Exploratory data analysis (EDA):</b> A method of analysing data sets to summarise their primary characteristics, often using visual strategies. EDA is crucial for understanding the data before building predictive models.
+
 <b>4. Machine learning models:</b> Algorithms that let computers learn from and make predictions or decisions based on data. You'll be building a classification model to predict customer churn.
 
 <h4>Project requirements:</h4>
