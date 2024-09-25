@@ -18,6 +18,7 @@ During this programme, you will get the opportunity to step into the shoes of a 
 We hope this programme provides a great resource for you to upskill and strengthen your resume as you explore career options and a potential career at Lloyds Banking Group.
 
 <h4>How it works</h4>
+
  - Complete tasks guided by pre-recorded videos and example answers from our team at Lloyds Banking Group. No live sessions, all self-paced.
  - Earn a certificate and add it to your resume and LinkedIn as an extracurricular activity.
  - Stand out in applications. Confidently answer interview questions and explain why you’re a good fit for our team.
