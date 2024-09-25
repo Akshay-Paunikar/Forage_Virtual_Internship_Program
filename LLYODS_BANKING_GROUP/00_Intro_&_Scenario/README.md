@@ -16,3 +16,8 @@ Background context and your project team.
  - Your primary task is to collaborate with the team to gather and analyse data relevant to customer churn.
  - You need to perform exploratory data analysis to uncover patterns and insights, clean and preprocess the data, and build a predictive model for customer churn.
  - Additionally, you are expected to suggest ways to evaluate and measure the model's performance.
+
+<h4>Your team at Lloyds Banking Group</h4>
+The Data Science & Analytics team at Lloyds Banking Group leverages advanced data analysis techniques to provide actionable insights and predictive models that enhance customer retention and drive business decisions.
+
+![image](https://github.com/user-attachments/assets/dd8dd1fb-2abc-46ce-8fb8-4b61613177a3)
