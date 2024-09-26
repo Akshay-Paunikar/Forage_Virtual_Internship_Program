@@ -166,3 +166,39 @@ As you work through these activities, keep the broader project goals in mind. Yo
 Your work in this task is not just about completing an assignment; it's about developing a deep, practical understanding of data science in action. Accuracy and thorough understanding are crucial, as the insights you derive will inform strategic decisions at SmartBank. The quality of your analysis could mean the difference between retaining valuable customers and losing them to competitors.
 
 Approach each step with diligence and an analytical mindset. This is your opportunity to make a tangible impact on a real-world problem, honing your skills in the process. Embrace the challenge, knowing that your contributions are vital to the project's success.
+
+<h3>Task instructions:</h3>
+
+<h4>Introduction:</h4>
+
+In this task, you will take the first critical steps toward building a predictive model for customer churn. Your work will involve gathering relevant data, conducting EDA, and preparing the data set for model development. These activities are foundational for ensuring the accuracy and reliability of your subsequent analysis and predictions.
+
+<h4>Instructions:</h4>
+
+<b>Identify and gather data:</b>
+
+ - Review the provided data sources and select those most relevant for predicting customer churn. Focus on key areas such as customer demographics, transaction history, and customer service interactions.
+ - Document your selection criteria and rationale for choosing each data set, ensuring that the data will provide meaningful insights into customer behaviour.
+
+<b>Perform EDA:</b>
+
+ - Use statistical techniques and data visualisation tools to explore the data sets. Create visualisations such as histograms, scatter plots, and box plots to understand distributions, trends, and relationships between variables.
+ - Identify key features that may influence customer churn, paying special attention to patterns or anomalies that could be significant.
+
+<b>Clean and preprocess the data:</b>
+
+ - Handle missing values by choosing appropriate methods such as imputation, removal, or flagging. Justify your chosen method based on the data and context.
+ - Detect and address outliers that could skew the analysis or predictions. Decide whether to cap, transform, or remove outliers based on their nature and potential impact.
+ - Standardise or normalise numerical features to ensure consistent scales across variables. This step is crucial for preparing the data for machine learning algorithms.
+ - Encode categorical variables using techniques like one-hot encoding to transform them into a numerical form appropriate for analysis.
+
+<b>Deliverable:</b>
+
+ - <b>File submission:</b> Submit a comprehensive report detailing your data gathering, EDA, and data cleaning processes. The report should include:
+
+ - A summary of the data sets selected and the rationale for their inclusion
+ - Visualisations and statistical summaries from the EDA
+ - A description of the data cleaning and preprocessing steps taken
+ - The cleaned and preprocessed data set ready for model building
+
+Ensure that your report is clear, concise, and well-organised, as it will be a key component of the project's success, guiding future analysis and model development.
