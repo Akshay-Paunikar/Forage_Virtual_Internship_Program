@@ -140,3 +140,29 @@ Creating new features from the existing data (feature engineering) and selecting
  - <b>Dimensionality reduction:</b> Using methods such as principal component analysis (PCA) to reduce the number of features, which can improve model performance and reduce overfitting.
 
 By adhering to these best practices, you'll ensure that your data set is clean, well-prepared, and optimised for building effective machine learning models. This foundational work is crucial for achieving accurate and reliable predictions in your project.
+
+<h3>Data gathering and exploratory analysis:</h3>
+
+Now that you've been introduced to the scenario and the importance of this project, it's time to roll up your sleeves and get started. This task will challenge you to apply your data science skills in a real-world context, helping you connect theoretical knowledge and practical application.
+
+<h4>Data collection: start with relevance</h4>
+
+Your first step is to identify and gather relevant data that will provide insights into customer churn. Focus on data that can help you understand customer behaviour, such as demographics, transaction history, and customer service interactions. Remember, the goal is to collect data that is pertinent to the problem at hand. Approach this step with a critical eye, considering how each piece of data might contribute to understanding why customers are leaving.
+
+<h4>EDA: discover patterns and insights</h4>
+
+Once you've collected the data, the next step is to perform EDA. This phase is crucial as it helps you uncover patterns, identify anomalies, and understand the data's structure. Use visual tools such as histograms, scatter plots, and heat maps to explore relationships between variables. Pay close attention to trends that might indicate early signs of churn, such as decreased usage frequency or increased interaction with customer service.
+
+EDA is not just a technical exercise; it's an opportunity to hypothesise the underlying causes of churn. For example, if you notice that customers who engage less with your digital services are more likely to churn, this insight could inform targeted retention strategies. Your analysis should be thorough and well-documented, providing a clear narrative that connects your findings to potential business actions.
+
+<h4>Data cleaning and preparation: ensuring quality</h4>
+
+The quality of your data affects the reliability of your predictive model. In this stage, focus on cleaning and preparing your data set. Handle missing values appropriately, either through imputation or removal, and ensure that all variables are in a consistent format. Normalising or standardising your data may be necessary, especially if the data includes variables with different scales. This step is about precision and care; small errors can lead to significant inaccuracies in your model.
+
+As you work through these activities, keep the broader project goals in mind. Your findings from EDA and your cleaned data set will form the foundation for building a robust predictive model. This model will help SmartBank not only understand current churn rates but also anticipate and mitigate future risks, directly influencing customer retention strategies.
+
+<h4>Why accuracy and thorough understanding matter?</h4>
+
+Your work in this task is not just about completing an assignment; it's about developing a deep, practical understanding of data science in action. Accuracy and thorough understanding are crucial, as the insights you derive will inform strategic decisions at SmartBank. The quality of your analysis could mean the difference between retaining valuable customers and losing them to competitors.
+
+Approach each step with diligence and an analytical mindset. This is your opportunity to make a tangible impact on a real-world problem, honing your skills in the process. Embrace the challenge, knowing that your contributions are vital to the project's success.
