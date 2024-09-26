@@ -196,9 +196,9 @@ In this task, you will take the first critical steps toward building a predictiv
 
  - <b>File submission:</b> Submit a comprehensive report detailing your data gathering, EDA, and data cleaning processes. The report should include:
 
- - A summary of the data sets selected and the rationale for their inclusion
- - Visualisations and statistical summaries from the EDA
- - A description of the data cleaning and preprocessing steps taken
- - The cleaned and preprocessed data set ready for model building
+    - A summary of the data sets selected and the rationale for their inclusion
+    - Visualisations and statistical summaries from the EDA
+    - A description of the data cleaning and preprocessing steps taken
+    - The cleaned and preprocessed data set ready for model building
 
 Ensure that your report is clear, concise, and well-organised, as it will be a key component of the project's success, guiding future analysis and model development.
