@@ -62,3 +62,38 @@ Once data is collected, it's essential to evaluate its quality. Consider the fol
 After collecting data from various sources, the next step is to integrate it into a cohesive data set. This may involve merging data sets, transforming data formats, or cleaning data to ensure uniformity. Once integrated, store the data securely, ensuring that it is organised and easily accessible for analysis.
 
 By mastering these techniques, you'll be well-prepared to gather and utilise data effectively, setting the stage for a successful data analysis project.
+
+<h3>Methods for performing exploratory data analysis to uncover patterns and insights:</h3>
+
+Exploratory data analysis (EDA) is a crucial stage in the data science process. It allows you to understand the underlying configuration of your data and identify key patterns and relationships. EDA involves using statistical techniques and data visualisation to summarise the main characteristics of the data set.
+
+<h4>Descriptive statistics:</h4>
+
+Begin your EDA by calculating descriptive statistics, which provide a summary of the basic features of your data. Key metrics include:
+
+ - <b>Mean, median, and mode:</b> These measures of central tendency help you understand the typical value in your data set.
+ - <b>Standard deviation and variance:</b> These metrics indicate the spread or dispersion of your data, showing how much variation exists from the average.
+ - <b>Min, max, and range:</b> These values provide insights into the bounds of your data, highlighting any potential outliers.
+
+<h4>Data visualisation:</h4>
+
+Visualisation is a powerful tool in EDA, helping you to quickly grasp complex data distributions and relationships. Common visualisation techniques include:
+
+ - <b>Histograms and density plots:</b> Useful for understanding the distribution of a single variable, including its central tendency and spread.
+ - <b>Box plots:</b> Help identify the spread and outliers in your data by showing the quartiles and median.
+ - <b>Scatter plots:</b> Ideal for examining relationships between two continuous variables, helping you identify potential correlations or trends.
+ - <b>Bar charts and heatmaps:</b> Useful for categorical data, showing the frequency or proportion of categories and the relationships between categorical variables.
+
+<h4>Correlation analysis:</h4>
+
+To uncover relationships between variables, perform a correlation analysis. This involves calculating correlation coefficients, such as Pearson’s or Spearman’s, which quantify the strength and direction of the relationship between variables. Understanding these correlations can help you identify key predictors of customer churn.
+
+<h4>Data profiling and anomaly detection:</h4>
+
+Data profiling involves examining data for anomalies, missing values, or inconsistencies. This phase is essential for ensuring data quality before proceeding to model building. Look for patterns in missing data, which could indicate underlying data collection issues or important missing information.
+
+<h4>Hypothesis generation:</h4>
+
+Based on the insights gained from descriptive statistics and visualisations, formulate hypotheses about your data. For example, you might hypothesise that high customer service interaction frequency is related to increased churn rates. These hypotheses can guide your subsequent analysis and model-building efforts.
+
+Employing these methods can help you uncover critical insights from your data, guiding your understanding and informing your decision-making process as you prepare for more advanced data analysis stages.
