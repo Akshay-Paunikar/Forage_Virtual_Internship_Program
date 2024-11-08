@@ -36,7 +36,7 @@ Selecting the right machine learning algorithm is crucial for building a robust 
 
 <h4>Understanding the problem type and data characteristics</h4>
 
-In churn prediction, you're dealing with a <b>inary classification problem.</b> Key considerations include:
+In churn prediction, you're dealing with a <b>binary classification problem.</b> Key considerations include:
 
  - <b>Imbalance in the data set:</b> Customer churn data sets often have an imbalance, where the number of churned customers is significantly less than non-churned. Techniques like <b>resampling, SMOTE (synthetic minority over-sampling technique)</b>, or <b>adjusted class weights</b> in algorithms are crucial for handling this imbalance effectively.
  - <b>Feature engineering:</b> Advanced feature engineering techniques, such as <b>interaction terms, polynomial features</b>, and <b>dimensionality reduction (e.g., principal component analysis)</b>, can significantly influence the performance of algorithms, especially those sensitive to multicollinearity and high-dimensional spaces, like logistic regression and support vector machines (SVMs).
