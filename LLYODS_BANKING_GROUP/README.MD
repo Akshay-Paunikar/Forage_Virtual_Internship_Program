@@ -1,4 +1,4 @@
-<h2>LLYODS BANKING GROUP: Data Science & Analytics</h2>
+<h2>LLOYDS BANKING GROUP: Data Science & Analytics</h2>
 Drive data-driven decisions and customer retention strategies at Lloyds Banking Group through advanced data science and analytics.
 
 <h3>Why complete our Job Simulation:</h3>
