@@ -2,7 +2,7 @@
 Enhance customer loyalty at Lloyds by building predictive models to identify and retain at-risk customers.
 
 <h4>Task overview:</h4>
-Excellent work on exploring and preparing the data in Task 1! Now, you'll leverage your analytical skills to build a predictive machine learning model, identifying key factors that influence customer churn and evaluating its performance for strategic decision-making.
+Excellent work on exploring and preparing the data in Task 1! Now, you'll leverage your analytical skills to build a predictive machine learning model, identifying key factors that influence customer churn and evaluating its performance for strategic decision-making.<br>
 
 <b>What you'll learn:</b>
 
