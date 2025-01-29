@@ -15,3 +15,9 @@ We know you’re ready to get started, and we’re here to support you. We desig
 At Deloitte, we won’t give you a career path, we’ll help you shape your own. 
 
 Help us tackle the biggest challenges facing Australia today and create a future of our own making!
+
+<h3>How it works</h3>
+
+ - Complete tasks guided by pre-recorded videos and example answers from our team at Deloitte Australia. No live sessions, all self-paced.
+ - Earn a certificate and add it to your resume and LinkedIn as an extracurricular activity.
+ - Stand out in applications. Confidently answer interview questions and explain why you’re a good fit for our team.
